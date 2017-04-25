@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RockPaper</string>
+    <string name="Launch_Main_Activity">Launch Main Activity</string>
+    <string name="action_settings">Settings</string>
+</resources>
